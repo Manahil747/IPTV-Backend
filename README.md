@@ -38,21 +38,31 @@ iptv-backend/
 │
 ├── config/
 │ └── db.js
+
 ├── controllers/
 │ └── (Episode, Genre, Series, Stream, File, User, Season, GenreSeries controllers)
+
 ├── middlewares/
 │ └── auth.js
+
 ├── models/
 │ └── (User, Stream, Episode, Season, File, Series, GenreSeries, Genre models)
+
 ├── routes/
 │ └── (UserAuth, Stream, Episode, Season, File, Series, GenreSeries, Genre, Auth routes)
+
 ├── utils/
 │ └── helperFunctions.js
+
 ├── uploads/
 │ └── (for multer uploads)
+
 ├── index.js
+
 ├── .env
+
 ├── package.json
+
 └── README.md
 
 
