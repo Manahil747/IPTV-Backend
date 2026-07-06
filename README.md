@@ -30,7 +30,6 @@ This backend project is built using the **MVC Architecture** and is designed to 
 - **JWT**
 - **Multer**
 - **Postman (API Testing)**
-- 
 
 ## 📁 Folder Structure
 
