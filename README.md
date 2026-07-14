@@ -3,7 +3,7 @@
 A robust IPTV Backend system that allows users to navigate genres, view series and seasons, and explore episodes through a well-structured API system.
 
 ## 👩‍💻 Developed By:  
-[**Manahil Altaf**](https://github.com/Manahil747)
+[**Shahzadi Manahil Altaf**](https://github.com/Manahil747)
 
 
 ## 📌 Project Overview
